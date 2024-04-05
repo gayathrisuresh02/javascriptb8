@@ -1,0 +1,36 @@
+*{
+    background-color: darksalmon;
+}
+header{
+    position: relative;
+    top: 5%;
+    left: 5px;
+    background: transparent;
+    height: 10px;
+    width: 100%;
+    padding: 10px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+nav a{
+    margin-left: 30px;
+    font-weight: 500;
+}
+.port{
+    font-family: fantasy;
+    text-decoration: none;
+    position: relative;
+    font-size: 20px;
+    color:black;
+}
+.link{
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-block; 
+}
+img{
+    height:200px;
+    width:300px;
+}
